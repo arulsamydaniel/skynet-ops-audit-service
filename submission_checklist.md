@@ -6,7 +6,7 @@
 * **Chosen Cloud Platform:** AWS
 * **Assessment Level Submitted:** Level 1 only
 * **Level 2 Option Chosen (if any):** N/A
-* **GitHub Repo Link:** [YOUR GITHUB REPO URL HERE]
+* **GitHub Repo Link:** https://github.com/arulsamydaniel/skynet-ops-audit-service.git
 * **Demo Video Link (optional but recommended):** * **Submission Date (UTC):** 2026-03-06
 
 ## 2) What I Implemented (Summary)
